@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+}
+
+#titulo {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#bienvenida {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
